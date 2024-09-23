@@ -1,0 +1,6 @@
+[submodule "lib/kbd"]
+	path = lib/kbd
+	url = https://github.com/foostan/kbd
+[submodule "lib/mikamo3"]
+	path = lib/mikamo3
+	url = https://github.com/mikamo3/kamo3_kicad_library.git
