@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/lib/kbd/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "kamo3_symbol")(type "KiCad")(uri "${KIPRJMOD}/lib/mikamo3/kamo3_symbol.kicad_sym")(options "")(descr ""))
+)
