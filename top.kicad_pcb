@@ -2069,7 +2069,7 @@
 	(footprint "kamo3_footprint:SW_CherryMX_Topplate_Hole"
 		(layer "F.Cu")
 		(uuid "5ba1f6c0-a17b-491c-ac7a-47d595108caa")
-		(at 206.2 69.1 12)
+		(at 205.2 69.4 12)
 		(property "Reference" "REF**"
 			(at 0 -0.5 12)
 			(unlocked yes)
